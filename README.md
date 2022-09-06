@@ -5,7 +5,7 @@
 - I’m looking to collaborate on the projects 💞️ 
 - 📫 I am also on  
 
-      <a href="https://www.linkedin.com/mwlite/in/htun-thiri-naing-849714b2" target="_blank"><img src="https://github.com/hthirinaing/hthirinaing/blob/main/contain/linked-in-alt.svg" alt="LinkedIn" width="30"></a>
+     <a href="https://www.linkedin.com/mwlite/in/htun-thiri-naing-849714b2" target="_blank"><img src="https://github.com/hthirinaing/hthirinaing/blob/main/contain/linked-in-alt.svg" alt="LinkedIn" width="30"></a>
 
 
 <!---
