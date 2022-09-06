@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hthirinaing but call me Thiri!
+- 👋 Hi, I’m Thiri :wave:
 - 👀 I’m interested in data science, geo informatics processing and computing especially with R or Python.
 - 🌱 I’m currently learning R and Python.
 - 💞️ I’m looking to collaborate on the projects using R and Python.
