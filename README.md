@@ -7,7 +7,6 @@
  
   <a href="https://www.linkedin.com/mwlite/in/htun-thiri-naing-849714b2" target="_blank"><img src="https://github.com/hthirinaing/hthirinaing/blob/main/contain/linked-in-alt.svg" alt="LinkedIn" width="30"></a>
 
-https://github.com/hthirinaing/hthirinaing/blob/main/contain/linked-in-alt.svg
 
 <!---
 hthirinaing/hthirinaing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
