@@ -1,12 +1,11 @@
-- 👋 Hi, I’m Thiri :wave:
-- 👀 I’m interested in data science, geo informatics processing and computing especially with R or Python.
-- 🌱 I’m currently learning R and Python.
-- 💞️ I’m looking to collaborate on the projects using R and Python.
+## Hi there, I’m Thiri <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="20px">
+
+- I’m interested in data science, geo informatics processing and computing especially with R or Python 👀
+- I’m currently learning R and Python :snake:
+- I’m looking to collaborate on the projects 💞️ 
 - 📫 I am also on
-  [[params.social]]
-    icon = "linkedin"
-    icon pack = "fa"
-    link = "https://www.linkedin.com/mwlite/in/htun-thiri-naing-849714b2"
+  <a href="https://www.linkedin.com/mwlite/in/htun-thiri-naing-849714b2" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
+    
 
 <!---
 hthirinaing/hthirinaing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
